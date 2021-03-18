@@ -3,7 +3,7 @@
   "scripts": {
     "cypress": "cypress open",
     "cypress:run":"npx cypress trun",
-    "cypress:run:dash":"npx cypress run --record --key bdfd822c-4c84-4228-8888-9c39636bf0d9"
+    "cypress:run:dash":"npx cypress run --record"
     
   },
   "devDependencies": {
